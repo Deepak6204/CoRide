@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "568789318852",
+    "project_id": "cabpool-f4962",
+    "storage_bucket": "cabpool-f4962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568789318852:android:495c622cb4d4da3dd19d91",
+        "android_client_info": {
+          "package_name": "cab.pool12_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568789318852-6kvfn6g545gac6ftc0vdrh90cih4uu78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1jEJSqv8WnRA34wfUNM28TSFIuM__2fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568789318852-6kvfn6g545gac6ftc0vdrh90cih4uu78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568789318852:android:1d7ae94fd9850d89d19d91",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568789318852-6kvfn6g545gac6ftc0vdrh90cih4uu78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1jEJSqv8WnRA34wfUNM28TSFIuM__2fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568789318852-6kvfn6g545gac6ftc0vdrh90cih4uu78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
